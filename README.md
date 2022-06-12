@@ -1,2 +1,2 @@
 # TestRepository
-Test Git commands
+Test Git commands for git repository
